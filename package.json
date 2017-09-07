@@ -1,0 +1,17 @@
+{
+  "name": "hain-plugin-smarttranslate",
+  "author": "Stefan Pawlik",
+  "version": "0.0.1",
+  "keywords": [
+    "hain-0.6.0"
+  ],
+  "hain": {
+    "prefix": "/s",
+    "usage": "type /s to translate a phrase into your chosen language",
+    "icon": "#fa fa-google",
+    "redirect": "/s"
+  },
+  "dependencies": {
+    "google-translate-api": "^2.3.0"
+  }
+}
