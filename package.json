@@ -12,6 +12,7 @@
     "redirect": "/s"
   },
   "dependencies": {
-    "google-translate-api": "^2.3.0"
+    "google-translate-api": "^2.3.0",
+    "linguee": "0.0.1"
   }
 }
